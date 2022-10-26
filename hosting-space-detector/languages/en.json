@@ -1,0 +1,17 @@
+{
+    "plugin-data":
+    {
+        "name": "Hosting space detector",
+        "description": "this plugin send info to admin when use too much size"
+    },
+
+    "websiteuses":"Website uses:",
+    "paypal":"If you want support my work  via paypal :) Thanks!",
+    "placeholdermb":"enter how many megabytes without the letters MB",
+    "info":"inform the administrator when the website exceeds the limit of (MB):",
+    "spaceover":"E-mail for notification when space is over",
+    "save":"Save settings",
+    "out-of-space":"You are running out of space, please free up some space",
+    "messagemail":"out of space limit.",
+    "subject":"Storage Alert!"
+}
