@@ -1,0 +1,17 @@
+{
+    "plugin-data":
+    {
+        "name": "Hosting space detector",
+        "description": "plugin ini memberikan informasi seberapa banyak ruang penyimpanan hosting yang terpakai"
+    },
+
+    "websiteuses":"Ruang penyimpapan terpakai:",
+    "paypal":"If you want support my work  via paypal :) Thanks!",
+    "placeholdermb":"masukkan berapa megabyte tanpa huruf MB",
+    "info":"Informasikan kepada administrator ketika situs web melebihi batas (MB):",
+    "spaceover":"E-mail untuk pemberitahuan saat ruang habis",
+    "save":"Simpan pengaturan",
+    "out-of-space":"Anda kehabisan ruang, harap kosongkan beberapa ruang penyimpanan",
+    "messagemail":"Melebihi batas ruang.",
+    "subject":"Peringatan Penyimpanan!"
+}
